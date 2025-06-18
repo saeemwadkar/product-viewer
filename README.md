@@ -79,6 +79,7 @@ https://dummyjson.com/auth/login
 ### Mock login (optional for testing)
 
 If you want to test without API dependency:
+
 1 Open:
 ```
 src/services/authService.js

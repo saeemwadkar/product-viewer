@@ -5,7 +5,7 @@ A React frontend that displays products using data from the DummyJSON API, with 
 
 ---
 
-##Tech Stack
+# Tech Stack
 
 - React 18+
 - React Router 6
@@ -17,7 +17,7 @@ A React frontend that displays products using data from the DummyJSON API, with 
 
 ---
 
-##Features
+# Features
 
 ✅ Login using DummyJSON credentials  
 ✅ Store JWT token on successful login (in `localStorage`)  

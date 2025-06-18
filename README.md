@@ -40,7 +40,7 @@ cd product-viewer
 ```
 Or clone:
 ```bash
-git clone https://github.com/yourusername/product-viewer.git
+git clone https://github.com/saeemwadkar/product-viewer.git
 cd product-viewer
 ```
 
